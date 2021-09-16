@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Contexts\" />
+    <ProjectReference Include="..\Blog5.Data\Blog5.Data.csproj" />
   </ItemGroup>
 
 </Project>

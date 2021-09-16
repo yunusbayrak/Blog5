@@ -4,4 +4,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Blog5.Data\Blog5.Data.csproj" />
+    <ProjectReference Include="..\Blog5.Infrastructure\Blog5.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
